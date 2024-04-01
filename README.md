@@ -5,7 +5,7 @@
 I built 5 models including the classic UNet and Vision-Transformer-based UNet (UNETR).
 The other 3 models are variations of it (VGG10-UNet, Densenet-121-UNet, Attention-UNet)
 
-⚡ In conclusion, using 2088 images to train models, Densenet-121-Unet achieved the best performance with an accuracy of 89% compared to others. The UNETR model achieves around 72.09% accuracy on the test data. However, this is not a competitive result on a rather small dataset compared to CNNs on the same data. CNNs achieve excellent results on data volumes that are not as large as those required by Vision Transformers.
+⚡ In conclusion, using 3929 images to train models, Densenet-121-Unet achieved the best performance with an accuracy of 89% compared to others. The UNETR model achieves around 72.09% accuracy on the test data. However, this is not a competitive result on a rather small dataset compared to CNNs on the same data. CNNs achieve excellent results on data volumes that are not as large as those required by Vision Transformers.
 
 ⚡ Dataset: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
 
